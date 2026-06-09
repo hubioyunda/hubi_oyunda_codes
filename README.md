@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ HUBİ OYUNDA
+# 🛡️ HUBİ OYUND
 ### Interactive Cybersecurity & Computing Education Platform
 
 **Computer Networks Course — Group 6**
