@@ -335,14 +335,16 @@ flutter run
 
 **🛡️ HUBİ OYUNDA — Group 6**
 
-*"Hubi in the Game: Cyber Mission Begins! 🚀"*
+*"Hubi in the Game: Cyber ​​Mission Begins! 🚀"*
 
 ---
-
+ 
 ## 🎬 Demo Video
-
+ 
 Watch the full application walkthrough to see HUBİ OYUNDA in action:
-
-https://drive.google.com/file/d/1mlc1WCsZ9Kr7cx4uyPCicTTvsdDx3JEE/view?usp=drivesdk
+ 
+**[▶ Watch Demo — Hubi in the Game](https://drive.google.com/file/d/1mlc1WCsZ9Kr7cx4uyPCicTTvsdDx3JEE/view?usp=drivesdk)**
+ 
+</div>
 
 </div>
