@@ -343,7 +343,7 @@ flutter run
  
 Watch the full application walkthrough to see HUBİ OYUNDA in action:
  
-**[▶ Watch Demo — Hubi in the Game](https://drive.google.com/file/d/1JP6mZki5398oPo9uuhdeCvlUnskWBlUS/view?usp=drivesdk)**
+**[▶ Watch Demo — Hubi in the Game](https://drive.google.com/file/d/1bxyJ9Dd_TzrEC0alWm5XDwW1ai11pS9U/view?usp=drivesdk)**
  
 </div>
 
