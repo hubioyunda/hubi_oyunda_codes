@@ -15,7 +15,7 @@
 
 ## 📖 Project Overview
 
-**
+**HUBİ OYUNDA** is an innovative mobile education (EdTech) platform designed to help children build a safe, conscious, and early connection with the digital world. Rather than replacing traditional computing education, it acts as a **complementary classroom technology** — giving teachers an interactive tool they can use alongside their lessons. The app transforms abstract computer science concepts into an enjoyable learning ecosystem through gamification.
 
 The core vision of the application is to move children beyond being passive "content consumers" in the digital world, turning them into **"Cyber Heroes"** and **"Cyber Detectives"** who understand the logical architecture behind technology, recognize cyber threats, and have internalized digital hygiene habits.
 
