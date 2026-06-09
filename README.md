@@ -7,7 +7,7 @@
 
 ---
 
-**Group Members:** Eda YILMAZ · Fatmanur YENİ · Fatıma Zehra UYANIK · Gülsena TOPUZ
+**Group Members:** Gülsena TOPUZ · Fatmanur YENİ · Fatıma Zehra UYANIK · Eda YILMAZ
 
 </div>
 
