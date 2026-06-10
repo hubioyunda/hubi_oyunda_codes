@@ -54,16 +54,6 @@ Technical terms that have no foothold in a child's mind were mapped to everyday 
 ### AI-Powered Scaffolding
 The central AI assistant "Hubi" is designed in full alignment with Vygotsky's *Zone of Proximal Development* and *Scaffolding* theory. The strictest rule given to Hubi: **never tell the child the correct answer directly.** Instead, it produces analogies and hints that guide the child to think independently.
 
-### Speed and Focus Analysis Engine
-The `AnalizManager` class monitors whether children are swiping through cards quickly "just to get through them." If a child completes a test in under 15 seconds, points are deducted from their score — **pedagogically forcing them to slow down and read carefully.**
-
-```dart
-// AnalizManager — Comprehension Level Calculation Engine
-if (karttaGecirilenSaniye < 15) basariYuzdesi -= 10; // Speed penalty
-if (nihaiSkor >= 85) return "% nihaiSkor (Cyber Detective)";
-if (nihaiSkor >= 60) return "% nihaiSkor (Developing)";
-return "% nihaiSkor (Needs Support)";
-```
 
 ---
 
